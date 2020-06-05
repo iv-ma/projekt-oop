@@ -1,11 +1,11 @@
-Pong game - Ivan Masniæ
+Pong game - Ivan MasniÄ‡
 
 Kontrole :
 
-	- prvi igraè(lijevi) se mièe sa botunima w(gore) i s(dolje)
-	- drugi igraè(desni) se mièe sa botunima o(gore) i l(dolje)
+	- prvi igraÄ(lijevi) se miÄe sa botunima w(gore) i s(dolje)
+	- drugi igraÄ(desni) se miÄe sa botunima o(gore) i l(dolje)
 
 Pokretanje igre:
 	
 	- za pokrenut igri potrebno je prvo inicijalizirati instancu igre
-	- pozvati metodu .postavi_display() te nakon pozavt .start_game() za zapoèeti igru
+	- pozvati metodu .postavi_display() te nakon pozvat .start_game() za zapoÄeti igru
